@@ -98,8 +98,8 @@ body{
 }
 
 
-
 .shares{
+    // display: none;
     width: 250px;
     height: 50px;
     padding: 5px 5px 5px 15px;
@@ -130,6 +130,10 @@ body{
         top: 40px;
         left: 150px;
     }
+}
+
+.disabled{
+    display: none;
 }
 
 

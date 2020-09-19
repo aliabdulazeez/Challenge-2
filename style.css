@@ -111,6 +111,10 @@ body {
   left: 150px;
 }
 
+.disabled {
+  display: none;
+}
+
 * {
   padding: 0;
   margin: 0;
